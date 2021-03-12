@@ -1,0 +1,38 @@
+! -------------------------------------------------- !
+! project: AryanDE                                   |
+! author: ArmouredHeart                              |   
+! contact: ArmouredHeart@protonmail.com              |
+! license: GNU GENERAL PUBLIC LICENSE v3             |
+! source: https://github.com/ArmouredHeart/AryanDE   |
+! -------------------------------------------------- !
+
+! assign colours in theme - this is what will be read in the .Xresources file
+#include "~/assets/colours/.Xcolours_fauxx"
+
+!! Colour code reference
+!       #----------------------------------------------------------------------#
+!       |  black |   red  |  green | yellow |  blue | magenta|  cyan  |  white |
+! Light |   00   |   01   |   02   |   03   |   04  |   05   |   06   |   07   |
+! Dark  |   08   |   09   |   10   |   11   |   12  |   13   |   14   |   15   |
+!       #----------------------------------------------------------------------#
+
+#define X_BACKGROUND: f_black
+#define X_FOREGROUND: f_tan
+
+#define X_COLOUR0: f_black
+#define X_COLOUR1: f_light_pink
+#define X_COLOUR2: f_lime_green
+#define X_COLOUR3: f_sunny_yellow
+#define X_COLOUR4: f_light_blue
+#define X_COLOUR5: f_light_purple
+#define X_COLOUR6: f_teal
+#define X_COLOUR7: f_white
+
+#define X_COLOUR8: f_grey
+#define X_COLOUR9: f_pink
+#define X_COLOUR10: f_forest_green
+#define X_COLOUR11: f_orange
+#define X_COLOUR12: f_dark_blue
+#define X_COLOUR13: f_dark_red
+#define X_COLOUR14: f_navy_blue
+#define X_COLOUR15: f_tan

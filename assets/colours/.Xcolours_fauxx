@@ -1,0 +1,32 @@
+! -------------------------------------------------- !
+! project: AryanDE                                   |
+! author: ArmouredHeart                              |   
+! contact: ArmouredHeart@protonmail.com              |
+! license: GNU GENERAL PUBLIC LICENSE v3             |
+! source: https://github.com/ArmouredHeart/AryanDE   |
+! -------------------------------------------------- !
+
+!! Colour code reference
+!       #----------------------------------------------------------------------#
+!       |  black |   red  |  green | yellow |  blue | magenta|  cyan  |  white |
+! Light |   00   |   01   |   02   |   03   |   04  |   05   |   06   |   07   |
+! Dark  |   08   |   09   |   10   |   11   |   12  |   13   |   14   |   15   |
+!       #----------------------------------------------------------------------#
+
+#define f_black: #333333
+#define f_light_pink: #EDC7D0
+#define f_lime_green: #00ff00
+#define f_sunny_yellow: #fffa8b 
+#define f_light_blue: #5fafd7
+#define f_light_purple: #af87d7
+#define f_teal: #8afbe0
+#define f_white: #ffffff
+
+#define f_grey: #646464
+#define f_pink: #d2738a
+#define f_forest_green: #5faf5f
+#define f_orange: #ffaf00
+#define f_dark_blue: #005faf 
+#define f_dark_red: #800000
+#define f_navy_blue: #005f87 
+#define f_tan: #c1b492
